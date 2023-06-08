@@ -126,6 +126,13 @@ yarn serve
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/BootRestart">
+            <img src="https://avatars.githubusercontent.com/u/37404129?v=4" width="80;" alt="BootRestart"/>
+            <br />
+            <sub><b>BootRestart</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/nihaojob">
             <img src="https://avatars.githubusercontent.com/u/13534626?v=4" width="80;" alt="nihaojob"/>
             <br />
@@ -159,15 +166,15 @@ yarn serve
             <br />
             <sub><b>makeng</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/z09176141">
             <img src="https://avatars.githubusercontent.com/u/49260613?v=4" width="80;" alt="z09176141"/>
             <br />
             <sub><b>z09176141</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/hudenghui">
             <img src="https://avatars.githubusercontent.com/u/17875293?v=4" width="80;" alt="hudenghui"/>
@@ -202,15 +209,15 @@ yarn serve
             <br />
             <sub><b>icleitoncosta</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Bamzc">
             <img src="https://avatars.githubusercontent.com/u/10151046?v=4" width="80;" alt="Bamzc"/>
             <br />
             <sub><b>Bamzc</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/macheteHot">
             <img src="https://avatars.githubusercontent.com/u/26652329?v=4" width="80;" alt="macheteHot"/>
@@ -245,15 +252,15 @@ yarn serve
             <br />
             <sub><b>xiaozeo</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/luke358">
             <img src="https://avatars.githubusercontent.com/u/48149577?v=4" width="80;" alt="luke358"/>
             <br />
             <sub><b>luke358</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/yehan68">
             <img src="https://avatars.githubusercontent.com/u/40497166?v=4" width="80;" alt="yehan68"/>
